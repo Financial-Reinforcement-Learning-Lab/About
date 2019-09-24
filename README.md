@@ -14,7 +14,7 @@ If you didn't receive an invite email us. Once in, have fun.
 
 ## :octocat: What do I need to create a project?
 
-Just an idea that you think is relevant. Document your code and we can help developing.
+Just an idea that you think is relevant. Document your code and we can help with development.
 
 ## :zap: Questions
 
